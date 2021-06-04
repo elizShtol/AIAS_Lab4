@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c05b6972_002D28d1_002D4772_002D9834_002Dfc0b27ddabc2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetPermutations" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EE468802-989E-45BA-B961-EC05DB99FA4C::net5.0::AIAS_Lab4_Tests.TravellingSalesmansTaskTests.GetPermutations&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EE468802-989E-45BA-B961-EC05DB99FA4C::net5.0::AIAS_Lab4_Tests.TravellingSalesmansTaskTests.Solve&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EE468802-989E-45BA-B961-EC05DB99FA4C::net5.0::AIAS_Lab4_Tests.TravellingSalesmansTaskTests.SolveShouldThrows&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EE468802-989E-45BA-B961-EC05DB99FA4C::net5.0::AIAS_Lab4_Tests.TravellingSalesmansTaskTests.GetPermutationsShouldThrows&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
